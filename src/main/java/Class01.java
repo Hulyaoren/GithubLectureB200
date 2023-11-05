@@ -4,5 +4,8 @@ public class Class01 {
 
         //Version 1
         System.out.println("Version 1");
+
+        //Version 2
+        System.out.println("Version 2");
     }
 }
